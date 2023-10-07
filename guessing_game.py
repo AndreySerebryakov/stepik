@@ -17,4 +17,5 @@ def game():
             print(answer[2])
             continue
 
+
 game()
